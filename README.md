@@ -24,8 +24,3 @@
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&labelColor=black&color=f05032)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black&color=white)
 
-## 📊 My GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicolasmartin89&show_icons=true&locale=en&theme=highcontrast)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasmartin89&show_icons=true&locale=en&theme=highcontrast)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nicolasmartin89&theme=highcontrast)
