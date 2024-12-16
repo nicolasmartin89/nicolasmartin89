@@ -1,5 +1,5 @@
 # Nicolás Demis Martín
-## Backend Developer | QA Automation | Full Stack Enthusiast
+## Full Stack Developer | QA Automation | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0176b5?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/nicolas-demis-martin/)
 [![Email](https://img.shields.io/badge/Email-6c4bff?style=for-the-badge&logo=Protonmail&labelColor=black)](mailto:nicolasmartin89@gmail.com)
